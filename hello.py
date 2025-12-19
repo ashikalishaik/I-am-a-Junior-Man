@@ -1,0 +1,1 @@
+print("Hello this is my first step towards a senior IT Manager/Developer today is 12/19/2025")
