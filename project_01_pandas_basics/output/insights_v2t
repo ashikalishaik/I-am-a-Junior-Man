@@ -1,0 +1,19 @@
+=== Business Insights (tips.csv) ===
+
+1) Average total bill: 19.79
+2) Average tip: 3.00
+3) Average tip percentage: 16.08%
+
+4) Average tip percentage by day:
+   - Fri: 16.99%
+   - Sun: 16.69%
+   - Thur: 16.13%
+   - Sat: 15.32%
+
+5) Average tip percentage by day and time:
+   - Fri / Lunch: 18.88%
+   - Sun / Dinner: 16.69%
+   - Thur / Lunch: 16.13%
+   - Thur / Dinner: 15.97%
+   - Fri / Dinner: 15.89%
+   - Sat / Dinner: 15.32%
