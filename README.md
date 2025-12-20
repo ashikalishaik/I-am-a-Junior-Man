@@ -14,16 +14,16 @@ I am regaining my confidence that I am equal to a Senior IT Manager
 - Built and ran a mini calculator script (supports + - * /, handles division by zero)
 - Practiced terminal workflow: run → status → commit → push
 
-- # Project 01 – Pandas Basics
+- ### Project 01 – Pandas Basics
 
-- ## Goal
+- #### Goal
 - Build confidence using pandas by analyzing a real CSV dataset from scratch.
 
-- ## What this project demonstrates
+- #### What this project demonstrates
 - Loading and inspecting data with pandas
 - Understanding dataset structure
 - Computing basic statistics
 - Writing results to an output file
 
-- ## Why this matters
-This project is focused on hands-on confidence and ownership, not advanced ML.
+- - #### Why this matters
+- This project is focused on hands-on confidence and ownership, not advanced ML.
