@@ -37,3 +37,7 @@ I am regaining my confidence that I am equal to a Senior IT Manager
 - Saved output to output/insights_v2.txt
 - DATA.GROUPBY("","")[""].APPLY().SORT()
 - DATA[""]=DATA[""]/DATA[""]*100
+
+## Day 4
+- I build a complete exploratory analysis pipeline: data loading, feature engineering, groupby insights, saved visualizations, and business interprettations.
+
