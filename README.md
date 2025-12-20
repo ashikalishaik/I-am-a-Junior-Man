@@ -13,6 +13,10 @@ I am regaining my confidence that I am equal to a Senior IT Manager
 ## Day 2
 - Built and ran a mini calculator script (supports + - * /, handles division by zero)
 - Practiced terminal workflow: run → status → commit → push
+- Built Project 01 using pandas without AI-generated code
+- Loaded CSV, inspected schema, checked missing values, generated summary report
+- Saved output to output/summary.txt
+
 
 - ### Project 01 – Pandas Basics
 
