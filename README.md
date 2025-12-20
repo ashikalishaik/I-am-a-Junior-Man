@@ -31,3 +31,9 @@ I am regaining my confidence that I am equal to a Senior IT Manager
 
 - #### Why this matters
 - This project is focused on hands-on confidence and ownership, not advanced ML.
+
+## Day 3
+- Loaded CSV, inspected schema, checked missing values, generated summary report
+- Saved output to output/insights_v2.txt
+- DATA.GROUPBY("","")[""].APPLY().SORT()
+- DATA[""]=DATA[""]/DATA[""]*100
