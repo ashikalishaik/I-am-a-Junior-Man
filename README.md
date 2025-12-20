@@ -25,5 +25,5 @@ I am regaining my confidence that I am equal to a Senior IT Manager
 - Computing basic statistics
 - Writing results to an output file
 
-- - #### Why this matters
+- #### Why this matters
 - This project is focused on hands-on confidence and ownership, not advanced ML.
