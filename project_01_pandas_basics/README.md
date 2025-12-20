@@ -31,3 +31,8 @@ Such insights can help businesses plan staffing or promotions around high-perfor
 The box plot highlights variability in tipping behavior for each day.
 Some days show wider distributions, indicating inconsistent tipping patterns.
 Understanding variability helps assess risk rather than relying only on averages.
+
+### Saved Visualizations
+The plots are saved under the `output/` directory:
+- `avg_tip_pct_by_day.png`: compares average tipping behavior across days
+- `tip_pct_distribution_by_day.png`: shows variability and outliers in tip percentages
