@@ -25,3 +25,13 @@ This indicates the presence of yearly seasonality that must be modeled explicitl
 ### Variability
 The amplitude of fluctuations increases over time, suggesting multiplicative seasonality rather than additive.
 This has implications for model selection and data transformation.
+
+## Time Series Decomposition
+
+The decomposition separates the observed series into trend, seasonal, and residual components.
+
+- The trend component confirms a long-term increase in passenger demand.
+- The seasonal component shows a repeating yearly pattern, validating strong seasonality.
+- The residual component appears relatively random, suggesting that most structure is captured by trend and seasonality.
+
+The increasing amplitude of seasonal effects supports the use of a multiplicative model.
