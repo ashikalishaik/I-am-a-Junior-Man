@@ -35,3 +35,5 @@ The decomposition separates the observed series into trend, seasonal, and residu
 - The residual component appears relatively random, suggesting that most structure is captured by trend and seasonality.
 
 The increasing amplitude of seasonal effects supports the use of a multiplicative model.
+
+I decomposed the series to validate trend and seasonality assumptions before selecting a forecasting model.
