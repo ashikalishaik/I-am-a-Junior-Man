@@ -72,3 +72,9 @@ The amplitude of fluctuations increases over time, suggesting multiplicative sea
 This has implications for model selection and data transformation.
 
 #### “Before forecasting, I analyzed trend, seasonality, and variance to understand whether the series is stationary and what modeling assumptions are valid.”
+
+#### Time Series Data Decomposition
+
+The decomposition is done by setting the index and then using the `statsmodels.tsa.seasonal seasonal_decompose where seasonal_decompose(data["Passengers"], model="multiplicative", period=12)`
+
+#### “Before forecasting, I decomposed the series to understand trend, seasonality, and noise, and selected a multiplicative model based on increasing variance.”
