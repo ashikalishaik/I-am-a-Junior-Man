@@ -70,3 +70,5 @@ This indicates the presence of yearly seasonality that must be modeled explicitl
 ##### Variability
 The amplitude of fluctuations increases over time, suggesting multiplicative seasonality rather than additive.
 This has implications for model selection and data transformation.
+
+#### “Before forecasting, I analyzed trend, seasonality, and variance to understand whether the series is stationary and what modeling assumptions are valid.”
