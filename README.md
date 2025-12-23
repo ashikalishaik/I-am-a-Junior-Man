@@ -88,3 +88,5 @@ Baseline and SARIMA models were evaluated using MAE and RMSE.
 - SARIMA significantly reduced error (MAE ≈ 16, RMSE ≈ 21), demonstrating improved modeling of trend and seasonal structure.
 
 Warnings related to frequency inference and convergence were addressed by explicitly setting time frequency and noting that further parameter tuning could improve optimization stability.
+
+#### I approached time-series forecasting by first understanding trend and seasonality, establishing baselines, evaluating SARIMA and ML models using MAE and RMSE, and selecting the final model based on both quantitative performance and residual diagnostics.
