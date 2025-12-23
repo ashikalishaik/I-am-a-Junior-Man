@@ -47,3 +47,12 @@ Two baseline approaches were evaluated before applying advanced models.
 - The seasonal naive forecast leverages last year’s monthly values and closely follows actual passenger trends.
 
 This confirms strong yearly seasonality and establishes a meaningful benchmark for future models.
+
+
+## Model Evaluation
+
+Baseline forecasts were evaluated using MAE and RMSE.
+Seasonal naive significantly outperformed naive forecasting, confirming strong seasonality.
+
+A SARIMA model further reduced error by explicitly modeling trend and seasonal structure.
+This demonstrates that model complexity is justified only after strong baselines are established.
