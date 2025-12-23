@@ -56,3 +56,10 @@ Seasonal naive significantly outperformed naive forecasting, confirming strong s
 
 A SARIMA model further reduced error by explicitly modeling trend and seasonal structure.
 This demonstrates that model complexity is justified only after strong baselines are established.
+
+## SARIMA Diagnostics
+
+Residual analysis indicates that the SARIMA model has captured most of the temporal structure.
+Residuals show no visible trend or seasonality, and autocorrelation is minimal.
+This suggests the model assumptions are reasonable and forecasts are reliable.
+

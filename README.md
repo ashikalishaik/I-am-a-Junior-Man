@@ -78,3 +78,13 @@ This has implications for model selection and data transformation.
 The decomposition is done by setting the index and then using the `statsmodels.tsa.seasonal seasonal_decompose where seasonal_decompose(data["Passengers"], model="multiplicative", period=12)`
 
 #### “Before forecasting, I decomposed the series to understand trend, seasonality, and noise, and selected a multiplicative model based on increasing variance.”
+
+#### Forecasting Results
+
+Baseline and SARIMA models were evaluated using MAE and RMSE.
+
+- Naive forecast performed poorly due to lack of seasonality modeling.
+- Seasonal naive captured yearly patterns but remained limited.
+- SARIMA significantly reduced error (MAE ≈ 16, RMSE ≈ 21), demonstrating improved modeling of trend and seasonal structure.
+
+Warnings related to frequency inference and convergence were addressed by explicitly setting time frequency and noting that further parameter tuning could improve optimization stability.
