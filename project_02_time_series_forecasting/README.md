@@ -63,3 +63,20 @@ Residual analysis indicates that the SARIMA model has captured most of the tempo
 Residuals show no visible trend or seasonality, and autocorrelation is minimal.
 This suggests the model assumptions are reasonable and forecasts are reliable.
 
+## ML vs Statistical Models
+
+A feature-based ML model (Random Forest) was evaluated using lag and calendar features.
+While ML can model nonlinear relationships, SARIMA achieved comparable or better performance due to the strong and well-structured seasonality in the data.
+
+This highlights that model selection should be driven by data characteristics rather than model complexity.
+
+I evaluated both statistical and ML-based forecasting approaches and selected models based on residual diagnostics and error metrics rather than complexity
+
+## Final Model Selection and Conclusion
+
+Multiple forecasting approaches were evaluated, including naive baselines, seasonal baselines, classical time-series models, and feature-based machine learning models.
+
+The SARIMA model achieved the lowest MAE and RMSE and produced residuals that appeared random, indicating that the model successfully captured the underlying trend and seasonal structure of the data.
+
+While the machine learning model demonstrated competitive performance, it did not outperform SARIMA, likely due to limited data size and strong seasonal patterns. Based on quantitative evaluation and residual analysis, SARIMA was selected as the most appropriate model for this forecasting task.
+
