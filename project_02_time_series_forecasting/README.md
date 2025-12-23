@@ -37,3 +37,13 @@ The decomposition separates the observed series into trend, seasonal, and residu
 The increasing amplitude of seasonal effects supports the use of a multiplicative model.
 
 I decomposed the series to validate trend and seasonality assumptions before selecting a forecasting model.
+
+
+## Baseline Forecasting
+
+Two baseline approaches were evaluated before applying advanced models.
+
+- The naive forecast assumes future demand equals the most recent observation and fails to capture seasonality.
+- The seasonal naive forecast leverages last year’s monthly values and closely follows actual passenger trends.
+
+This confirms strong yearly seasonality and establishes a meaningful benchmark for future models.
