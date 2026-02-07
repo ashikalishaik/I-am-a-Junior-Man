@@ -1,5 +1,5 @@
 # I-am-a-Junior-Man
-I am regaining my confidence that I am equal to a Senior IT Manager
+I am regaining my confidence 
 
 ## Day 1
 - Installed: Python, Git, VS Code
